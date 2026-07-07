@@ -1,7 +1,5 @@
 # Spendly — Personal Expense Tracker
 
-[![Tests](https://github.com/kcdhanunjay70/kcds-Personal-Expences-Tracker/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/kcdhanunjay70/kcds-Personal-Expences-Tracker/actions/workflows/test.yml)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/kcdhanunjay70/kcds-Personal-Expences-Tracker)
 
 A responsive monthly spending dashboard built with Flask, MongoDB, HTML/CSS, vanilla JavaScript, and Chart.js.
 
